@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  YICTMagazine
+
+  Created by Seven on 13-9-11.
+  Copyright (c) 2013年 YICT. All rights reserved.
+*/
+"Swipe up to enter..." = "Swipe up to enter...";
+"Warning" = "Warning";
+"Error" = "Error";
+"You are currently in offline model." = "You are currently in offline model.";
+"OK" = "OK";
+
+"YICT" = "YICT";
+"YICT Updates" = "YICT Updates";
+"Home" = "Home";
+"News" = "News";
+"Magazine" = "Magazine";
+"Settings" = "Settings";
+
+"You did not use wifi connection. Are you sure you want to continue connecting?" = "You did not use wifi connection. Are you sure you want to continue connecting?";
+"View" = "View";
+"Cancel" = "Cancel";
+
+"Page %i / %i" = "Page %i / %i";
+"Catalog content is empty" = "Catalog content is empty";
+
+"Photo" = "Photo";
+"News Settings" = "News Settings";
+"Automatic Download Settings" = "Automatic Download Settings";
+"Version %@" = "Version %@";
+"Type" = "Type";
+"All" = "All";
+"Notifications" = "Notifications";
+"Wi-Fi" = "Wi-Fi";
+"Clear the Cache" = "Clear the Cache";
+"Confirm that you want to clear cache?" = "Confirm that you want to clear cache?";
+"Cache has been successfully cleared." = "Cache has been successfully cleared.";
+"About Us" = "About Us";
+
+"Please connect to network." = "Please connect to network.";

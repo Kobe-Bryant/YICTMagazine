@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  YICTMagazine
+
+  Created by Seven on 13-9-11.
+  Copyright (c) 2013年 YICT. All rights reserved.
+*/
+"Swipe up to enter..." = "向上翻页进入...";
+"Warning" = "警告";
+"Error" = "错误";
+"You are currently in offline model." = "您正处于离线模式。";
+"OK" = "确定";
+
+"YICT" = "盐田国际";
+"YICT Updates" = "盐田国际";
+"Home" = "首页";
+"News" = "新闻";
+"Magazine" = "杂志";
+"Settings" = "设置";
+
+"You did not use Wi-Fi connection. Are you sure you want to continue connecting?" = "您没有使用 Wi-Fi 进行连接网络，您确定继续查看吗？";
+"View" = "查看";
+"Cancel" = "取消";
+
+"Page %i / %i" = "页 %i / %i";
+"Catalog content is empty" = "目录内容为空";
+
+"Photo" = "图片";
+"News Settings" = "新闻设置";
+"Automatic Download Settings" = "自动下载设置";
+"Version %@" = "版本 %@";
+"Type" = "类型";
+"All" = "全部";
+"Notifications" = "新消息提醒";
+"Wi-Fi" = "Wi-Fi";
+"Clear the Cache" = "清除缓存";
+"Confirm that you want to clear cache?" = "确认要清除缓存吗？";
+"Cache has been successfully cleared." = "缓存已成功清除。";
+"About Us" = "关于我们";
+
+"Please connect to network." = "请先连接网络。";
